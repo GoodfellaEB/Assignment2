@@ -1,4 +1,4 @@
-package com.example.leo.assignment1;
+package com.example.leo.assignment2;
 
 public class DataModel {
 

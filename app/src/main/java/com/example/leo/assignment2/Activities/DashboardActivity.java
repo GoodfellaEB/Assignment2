@@ -1,4 +1,4 @@
-package com.example.leo.assignment1;
+package com.example.leo.assignment2.Activities;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -11,9 +11,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.ListView;
 
-import com.example.leo.assignment1.fragments.BookingFragment;
-import com.example.leo.assignment1.fragments.DashboardFragment;
-import com.example.leo.assignment1.fragments.NewsFragment;
+import com.example.leo.assignment2.CustomAdapter;
+import com.example.leo.assignment2.DataModel;
+import com.example.leo.assignment2.R;
+import com.example.leo.assignment2.fragments.BookingFragment;
+import com.example.leo.assignment2.fragments.DashboardFragment;
+import com.example.leo.assignment2.fragments.NewsFragment;
 
 import java.util.ArrayList;
 
